@@ -12,12 +12,8 @@ header {
     height: 52vw;
 }
 
-.block-navigation {
-    width: 100%;
-    padding: 1% 2%;
+.text-bg-dark p-3 {
     opacity: .8;
-    background-color: #000303;
-    margin: 0;
 }
 
 .block-networks {
